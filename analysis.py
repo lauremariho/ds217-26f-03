@@ -97,7 +97,5 @@ def main():
         file.write(f"monitor_offset: {monitor_offset}\n")
         file.write(f"stage2_other_monitors: {stage2_other_monitors}\n")
 
-
-
 if __name__ == "__main__":
     main()
